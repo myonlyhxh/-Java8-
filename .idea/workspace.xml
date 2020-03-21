@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44d3d25a-5cae-427d-bf6c-e69fe75118cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XNeIBDVoxGLn9HYnUY4sOWvAJc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.Exercise5.test">
+    <configuration name="Execise.t1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flashwarrior.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flashwarrior.algorithm" />
+      <option name="MAIN_CLASS_NAME" value="com.flashwarrior.algorithm.Execise" />
+      <option name="METHOD_NAME" value="t1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Execise.test11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flashwarrior.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flashwarrior.algorithm" />
+      <option name="MAIN_CLASS_NAME" value="com.flashwarrior.algorithm.Execise" />
+      <option name="METHOD_NAME" value="test11" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise3.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flashwarrior.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flashwarrior.algorithm" />
+      <option name="MAIN_CLASS_NAME" value="com.flashwarrior.algorithm.Exercise3" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise4.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flashwarrior.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flashwarrior.algorithm" />
+      <option name="MAIN_CLASS_NAME" value="com.flashwarrior.algorithm.Exercise4" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise5.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flashwarrior.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flashwarrior.algorithm" />
+      <option name="MAIN_CLASS_NAME" value="com.flashwarrior.algorithm.Exercise5" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Exercise5.test" />
+        <item itemvalue="JUnit.Execise.test11" />
+        <item itemvalue="JUnit.Execise.t1" />
+        <item itemvalue="JUnit.Exercise4.test3" />
+        <item itemvalue="JUnit.Exercise3.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44d3d25a-5cae-427d-bf6c-e69fe75118cf" name="Default Changelist" comment="" />
+      <created>1580890613805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580890613805</updated>
+      <workItem from="1580890616508" duration="200000" />
+      <workItem from="1580890898075" duration="128000" />
+      <workItem from="1580891036939" duration="14000000" />
+      <workItem from="1580977161966" duration="9546000" />
+      <workItem from="1581056794539" duration="9323000" />
+      <workItem from="1581232751670" duration="6884000" />
+      <workItem from="1581332478500" duration="2692000" />
+      <workItem from="1581337067788" duration="6856000" />
+      <workItem from="1581417392124" duration="7214000" />
+      <workItem from="1581508237791" duration="19000" />
+      <workItem from="1581508294030" duration="4031000" />
+      <workItem from="1581599739725" duration="2262000" />
+      <workItem from="1581837825913" duration="7361000" />
+      <workItem from="1581954224048" duration="1983000" />
+      <workItem from="1582030440385" duration="3085000" />
+      <workItem from="1582103263180" duration="3771000" />
+      <workItem from="1582204621056" duration="733000" />
+      <workItem from="1582449721717" duration="1886000" />
+      <workItem from="1582559573283" duration="949000" />
+      <workItem from="1583324530942" duration="146000" />
+      <workItem from="1583324687661" duration="1215000" />
+      <workItem from="1583406265499" duration="1582000" />
+      <workItem from="1584763425861" duration="1544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="830" y="273" key="#com.intellij.ide.util.MemberChooser" timestamp="1584764776619">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="273" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1584764776619" />
+    <state x="705" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583324663878">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="705" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1583324663878" />
+    <state width="438" height="466" key="DebuggerActiveHint" timestamp="1581421054031">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="438" height="466" key="DebuggerActiveHint/0.0.2048.1112@0.0.2048.1112" timestamp="1581421054031" />
+    <state width="2005" height="298" key="GridCell.Tab.0.bottom" timestamp="1581862890965">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1581862890965" />
+    <state width="2005" height="298" key="GridCell.Tab.0.center" timestamp="1581862890965">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1581862890965" />
+    <state width="2005" height="298" key="GridCell.Tab.0.left" timestamp="1581862890964">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1581862890964" />
+    <state width="2005" height="298" key="GridCell.Tab.0.right" timestamp="1581862890965">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1581862890965" />
+    <state width="2005" height="367" key="GridCell.Tab.1.bottom" timestamp="1581609827643">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1581609827643" />
+    <state width="2005" height="367" key="GridCell.Tab.1.center" timestamp="1581609827643">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1581609827643" />
+    <state width="2005" height="367" key="GridCell.Tab.1.left" timestamp="1581609827643">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1581609827643" />
+    <state width="2005" height="367" key="GridCell.Tab.1.right" timestamp="1581609827643">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1581609827643" />
+    <state x="526" y="199" key="SettingsEditor" timestamp="1580906939701">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="526" y="199" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1580906939701" />
+    <state x="746" y="298" width="561" height="524" key="StructurePopup" timestamp="1583418555400">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="746" y="298" width="561" height="524" key="StructurePopup/0.0.2048.1112@0.0.2048.1112" timestamp="1583418555400" />
+    <state x="705" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584763427291">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="705" y="381" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1584763427291" />
+    <state x="703" y="289" width="642" height="534" key="find.popup" timestamp="1582044146819">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="703" y="289" width="642" height="534" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1582044146819" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1583418532640">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1583418532640" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Execise.java</url>
+          <line>256</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Execise.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Sort.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Sort.java</url>
+          <line>161</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Execrise1.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Execrise1.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Execrise1.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Execrise1.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Exercise2.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Exercise3.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Exercise4.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Exercise4.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Execise.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flashwarrior/algorithm/Sort.java</url>
+          <line>181</line>
+          <properties class="com.flashwarrior.algorithm.Sort" method="t1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
