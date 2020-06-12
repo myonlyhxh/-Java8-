@@ -6,6 +6,8 @@ public class User {
 
     private String mobile;
 
+    private Integer age;
+
     private Boolean active;
 
     public Boolean isActive() {
@@ -34,5 +36,13 @@ public class User {
 
     public void setActive(Boolean active) {
         this.active = active;
+    }
+
+    public Integer getAge() {
+        return age;
+    }
+
+    public void setAge(Integer age) {
+        this.age = age;
     }
 }
