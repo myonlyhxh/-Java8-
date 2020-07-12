@@ -18,10 +18,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XNeIBDVoxGLn9HYnUY4sOWvAJc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -29,10 +32,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="JUnit.Exercise5.test">
     <configuration name="Execise.t1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -157,78 +161,93 @@
       <workItem from="1583324530942" duration="146000" />
       <workItem from="1583324687661" duration="1215000" />
       <workItem from="1583406265499" duration="1582000" />
-      <workItem from="1584763425861" duration="1544000" />
+      <workItem from="1584763425861" duration="2464000" />
+      <workItem from="1584766069121" duration="9711000" />
+      <workItem from="1587133288370" duration="665000" />
+      <workItem from="1587135803999" duration="1255000" />
+      <workItem from="1587205985275" duration="115000" />
+      <workItem from="1591973430877" duration="472000" />
+      <workItem from="1591973913907" duration="208000" />
+      <workItem from="1594541176940" duration="369000" />
+      <workItem from="1594541670247" duration="744000" />
+      <workItem from="1594546670972" duration="333000" />
     </task>
+    <task id="LOCAL-00001" summary="提交">
+      <created>1591973680707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591973680707</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交">
+      <created>1591973950090</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591973950090</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交">
+      <created>1594546736589</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594546736589</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="830" y="273" key="#com.intellij.ide.util.MemberChooser" timestamp="1584764776619">
+    <state x="505" y="131" key="#Project_Structure" timestamp="1591973818848">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="830" y="273" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1584764776619" />
-    <state x="705" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583324663878">
+    <state x="505" y="131" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1591973818848" />
+    <state x="705" y="291" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594541195383">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="705" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1583324663878" />
-    <state width="438" height="466" key="DebuggerActiveHint" timestamp="1581421054031">
+    <state x="705" y="291" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1594541195383" />
+    <state x="623" y="122" key="CommitChangelistDialog2" timestamp="1591974119078">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="438" height="466" key="DebuggerActiveHint/0.0.2048.1112@0.0.2048.1112" timestamp="1581421054031" />
-    <state width="2005" height="298" key="GridCell.Tab.0.bottom" timestamp="1581862890965">
+    <state x="623" y="122" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1591974119078" />
+    <state x="198" y="94" key="DiffContextDialog" timestamp="1591973451353">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="298" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1581862890965" />
-    <state width="2005" height="298" key="GridCell.Tab.0.center" timestamp="1581862890965">
+    <state x="198" y="94" key="DiffContextDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1591973451353" />
+    <state width="2005" height="298" key="GridCell.Tab.0.bottom" timestamp="1594546656586">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="298" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1581862890965" />
-    <state width="2005" height="298" key="GridCell.Tab.0.left" timestamp="1581862890964">
+    <state width="2005" height="298" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1594546656586" />
+    <state width="2005" height="298" key="GridCell.Tab.0.center" timestamp="1594546656585">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="298" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1581862890964" />
-    <state width="2005" height="298" key="GridCell.Tab.0.right" timestamp="1581862890965">
+    <state width="2005" height="298" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1594546656585" />
+    <state width="2005" height="298" key="GridCell.Tab.0.left" timestamp="1594546656585">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="298" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1581862890965" />
-    <state width="2005" height="367" key="GridCell.Tab.1.bottom" timestamp="1581609827643">
+    <state width="2005" height="298" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1594546656585" />
+    <state width="2005" height="298" key="GridCell.Tab.0.right" timestamp="1594546656585">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="367" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1581609827643" />
-    <state width="2005" height="367" key="GridCell.Tab.1.center" timestamp="1581609827643">
+    <state width="2005" height="298" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1594546656585" />
+    <state x="526" y="199" key="SettingsEditor" timestamp="1594546638170">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="367" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1581609827643" />
-    <state width="2005" height="367" key="GridCell.Tab.1.left" timestamp="1581609827643">
+    <state x="526" y="199" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1594546638170" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1591973955456">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="367" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1581609827643" />
-    <state width="2005" height="367" key="GridCell.Tab.1.right" timestamp="1581609827643">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1591973955456" />
+    <state x="741" y="347" key="git4idea.merge.GitPullDialog" timestamp="1591974072832">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="367" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1581609827643" />
-    <state x="526" y="199" key="SettingsEditor" timestamp="1580906939701">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="526" y="199" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1580906939701" />
-    <state x="746" y="298" width="561" height="524" key="StructurePopup" timestamp="1583418555400">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="746" y="298" width="561" height="524" key="StructurePopup/0.0.2048.1112@0.0.2048.1112" timestamp="1583418555400" />
-    <state x="705" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584763427291">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="705" y="381" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1584763427291" />
-    <state x="703" y="289" width="642" height="534" key="find.popup" timestamp="1582044146819">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="703" y="289" width="642" height="534" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1582044146819" />
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1583418532640">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1583418532640" />
+    <state x="741" y="347" key="git4idea.merge.GitPullDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1591974072832" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
